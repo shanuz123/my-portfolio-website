@@ -34,4 +34,3 @@ To run locally:
 ```bash
 git clone https://github.com/shanuz123/my-portfolio-website.git
 cd my-portfolio-website
-'''
